@@ -1,0 +1,20 @@
+[2025-11-08 22:48:00,916] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-11-08 22:48:00,922] 97 werkzeug - INFO -  * Debugger PIN: 882-916-258
+[2025-11-08 22:48:06,154] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:06] "GET / HTTP/1.1" 200 -
+[2025-11-08 22:48:06,178] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:06] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 22:48:11,397] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-11-08 22:48:13,590] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:13] "GET / HTTP/1.1" 200 -
+[2025-11-08 22:48:13,628] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:13] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 22:48:15,367] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:15] "GET / HTTP/1.1" 200 -
+[2025-11-08 22:48:15,407] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:15] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 22:48:16,399] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:16] "GET / HTTP/1.1" 200 -
+[2025-11-08 22:48:16,439] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:16] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 22:48:17,248] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:17] "GET / HTTP/1.1" 200 -
+[2025-11-08 22:48:17,273] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:17] "GET / HTTP/1.1" 200 -
+[2025-11-08 22:48:17,306] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:17] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 22:48:25,063] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:25] "[35m[1mGET /predictdata HTTP/1.1[0m" 500 -
+[2025-11-08 22:48:27,129] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:27] "[35m[1mGET /predictdata HTTP/1.1[0m" 500 -
+[2025-11-08 22:48:27,376] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:27] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-11-08 22:48:27,388] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:27] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-11-08 22:48:27,473] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:27] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=VS2h9BQQVlYJC8OukE3C HTTP/1.1" 200 -
+[2025-11-08 22:48:27,498] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:48:27] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

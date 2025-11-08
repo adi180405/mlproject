@@ -1,0 +1,28 @@
+[2025-11-08 20:30:17,431] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-11-08 20:30:17,437] 97 werkzeug - INFO -  * Debugger PIN: 882-916-258
+[2025-11-08 20:30:20,008] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:30:20] "GET / HTTP/1.1" 200 -
+[2025-11-08 20:30:23,914] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:30:23] "GET /home HTTP/1.1" 200 -
+[2025-11-08 20:32:42,329] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:32:42] "GET / HTTP/1.1" 200 -
+[2025-11-08 20:32:42,361] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:32:42] "[33mGET /static/img/iii.jpeg HTTP/1.1[0m" 404 -
+[2025-11-08 20:32:54,916] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:32:54] "GET /home HTTP/1.1" 200 -
+[2025-11-08 20:35:16,796] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:35:16] "GET / HTTP/1.1" 200 -
+[2025-11-08 20:35:16,834] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:35:16] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 20:38:07,482] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:38:07] "GET / HTTP/1.1" 200 -
+[2025-11-08 20:38:07,513] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:38:07] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 20:38:12,193] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:38:12] "GET /home HTTP/1.1" 200 -
+[2025-11-08 20:38:12,238] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:38:12] "[33mGET /static/img/student-ai.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 20:38:15,975] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:38:15] "GET /predictdata HTTP/1.1" 200 -
+[2025-11-08 20:38:16,026] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:38:16] "[33mGET /static/img/student-ai.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 20:38:43,397] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:38:43] "GET / HTTP/1.1" 200 -
+[2025-11-08 20:38:43,446] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:38:43] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 20:38:47,951] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:38:47] "GET /home HTTP/1.1" 200 -
+[2025-11-08 20:38:47,988] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:38:47] "[33mGET /static/img/student-ai.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 20:40:08,269] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:40:08] "GET /predictdata HTTP/1.1" 200 -
+[2025-11-08 20:40:08,326] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:40:08] "[33mGET /static/img/student-ai.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 20:40:30,391] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:40:30] "GET / HTTP/1.1" 200 -
+[2025-11-08 20:40:30,452] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:40:30] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 20:40:34,916] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:40:34] "GET /home HTTP/1.1" 200 -
+[2025-11-08 20:43:00,676] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:43:00] "GET / HTTP/1.1" 200 -
+[2025-11-08 20:43:00,747] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:43:00] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 20:43:04,710] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 20:43:04] "GET /home HTTP/1.1" 200 -
+[2025-11-08 20:46:01,431] 97 werkzeug - INFO -  * Detected change in 'f:\\project\\mlproject\\app.py', reloading

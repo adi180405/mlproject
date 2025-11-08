@@ -1,7 +1,10 @@
+import os
 import sys
+sys.path.append('F:/project/mlproject')
 import pandas as pd
 from src.exception import CustomException
 from src.utils import load_object
+
 
 
 class PredictPipeline:

@@ -1,0 +1,11 @@
+[2025-11-08 22:50:05,385] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-11-08 22:50:05,392] 97 werkzeug - INFO -  * Debugger PIN: 882-916-258
+[2025-11-08 22:50:10,350] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:50:10] "GET / HTTP/1.1" 200 -
+[2025-11-08 22:50:10,368] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:50:10] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 22:50:14,495] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:50:14] "GET / HTTP/1.1" 200 -
+[2025-11-08 22:50:14,532] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:50:14] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 22:50:15,949] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:50:15] "GET / HTTP/1.1" 200 -
+[2025-11-08 22:50:15,992] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:50:15] "[33mGET /static/img/ai-student.jpg HTTP/1.1[0m" 404 -
+[2025-11-08 22:50:20,701] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:50:20] "GET /predictdata HTTP/1.1" 200 -
+[2025-11-08 22:52:24,929] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:52:24] "GET / HTTP/1.1" 200 -
+[2025-11-08 22:52:47,186] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 22:52:47] "POST /predictdata HTTP/1.1" 200 -

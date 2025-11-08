@@ -1,0 +1,12 @@
+[2025-11-08 21:20:36,987] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-11-08 21:20:36,994] 97 werkzeug - INFO -  * Debugger PIN: 882-916-258
+[2025-11-08 21:21:01,542] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 21:21:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-11-08 21:21:03,184] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 21:21:03] "[33mGET /predictdata/ HTTP/1.1[0m" 404 -
+[2025-11-08 21:21:07,167] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 21:21:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-11-08 21:21:11,586] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 21:21:11] "[35m[1mGET /predictdata HTTP/1.1[0m" 500 -
+[2025-11-08 21:21:12,980] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 21:21:12] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-11-08 21:21:13,629] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 21:21:13] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2025-11-08 21:21:13,868] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 21:21:13] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-11-08 21:21:13,869] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 21:21:13] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-11-08 21:21:13,975] 97 werkzeug - INFO - 127.0.0.1 - - [08/Nov/2025 21:21:13] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=kmf8j7pkA71hNSzRsnh9 HTTP/1.1" 200 -
+[2025-11-08 21:21:44,384] 97 werkzeug - INFO -  * Detected change in 'f:\\project\\mlproject\\app.py', reloading
